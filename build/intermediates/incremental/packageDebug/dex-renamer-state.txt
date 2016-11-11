@@ -1,0 +1,7 @@
+#Fri Nov 11 10:48:20 ICT 2016
+base.0=D\:\\semester 7\\prak. mobpro\\UtsMobpro\\logindatabase\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b98b841a8c018b66746b34fc9239e14fa84d247d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\semester 7\\prak. mobpro\\UtsMobpro\\logindatabase\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a9c3ba691593e78822afc2b252635587882d5a19\\classes.dex
+base.1=D\:\\semester 7\\prak. mobpro\\UtsMobpro\\logindatabase\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a9c3ba691593e78822afc2b252635587882d5a19
+file.0=D\:\\semester 7\\prak. mobpro\\UtsMobpro\\logindatabase\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b98b841a8c018b66746b34fc9239e14fa84d247d\\classes.dex

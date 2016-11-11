@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="5221812577416"
+    token="-530581383547440464"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="D:\semester 7\prak. mobpro\UtsMobpro\logindatabase\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="4417499925183"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\semester 7\prak. mobpro\UtsMobpro\logindatabase\build\outputs\apk\logindatabase-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="5221812577416"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\semester 7\prak. mobpro\UtsMobpro\logindatabase\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
